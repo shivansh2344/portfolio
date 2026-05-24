@@ -108,7 +108,7 @@
                 
                {/* QUICK OVERVIEW DASHBOARD */} 
                <div className="mt-8 grid grid-cols-2 gap-4 border border-[#1A1A1C] p-4 bg-[#0c0c0e]/60 rounded-md backdrop-blur-sm font-mono text-[11px] text-slate-400 w-full max-w-md"> 
-                 <div>NATIONAL EXAM QUALIFICATION : GATE Data Science & AI 2026 // ALL INDIA RANK 3024</div> 
+                 <div>NATIONAL EXAM QUALIFICATION : GATE DA 2026 // ALL INDIA RANK 3024</div> 
                  <div>ACADEMIC STANDING           : B.Tech Student — AI & Data Science @ JEC</div> 
                  <div>ENGINE PRODUCTION SCALE     : Optimized pipelines handling 1M+ Records</div> 
                  <div>COMMUNITY LEADERSHIP        : Founder @ MATRIX JEC // Mentored 50+ Students</div> 
@@ -225,9 +225,9 @@
                
                {/* SYSTEM DIRECT ACTION COMMUNICATIONS ROUTER */} 
                <div className="mt-6 p-6 border border-[#1A1A1C] bg-[#0c0c0e]/80 rounded-sm flex flex-col gap-4"> 
-                 <div className="font-display font-black text-sm text-[#FAF9F6] tracking-tight">[INITIATE SECURE PROJECT LINE // CONTACT DIRECTORY]</div> 
+                 <div className="font-display font-black text-sm text-[#FAF9F6] tracking-tight">[INITIATE SECURE PROJECT LINE // CONTACT ME]</div> 
                  <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 text-slate-400"> 
-                   <a href="mailto:shivanshgarg2344@gmail.com" className="hover:text-[#FAF9F6] transition-colors border border-[#1A1A1C] p-3 text-center bg-[#080809]">EMAIL // DIRECT</a> 
+                   <a href="mailto:shivanshgarg23.4.4@gmail.com" className="hover:text-[#FAF9F6] transition-colors border border-[#1A1A1C] p-3 text-center bg-[#080809]">EMAIL // DIRECT</a> 
                    <a href="https://github.com/shivansh2344" target="_blank" rel="noopener noreferrer" className="hover:text-[#FAF9F6] transition-colors border border-[#1A1A1C] p-3 text-center bg-[#080809]">GITHUB // INSTANCE</a> 
                    <a href="https://linkedin.com/in/shivanshg2344" target="_blank" rel="noopener noreferrer" className="hover:text-[#FAF9F6] transition-colors border border-[#1A1A1C] p-3 text-center bg-[#080809]">LINKEDIN // CONNECT</a> 
                  </div> 
